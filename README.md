@@ -1,8 +1,8 @@
 # VolumeChanger
-Small repo voor a multipurpose windows 10 volume changer via .cmd file.
-Program Sound Volume View is used in order to change the volume levels of applications.
-The .cmd are specificly setup for discord volume but can be changed for anything you desire.
-Personally I use this personally use this to alter discord volume and bound it to a scroll wheel on my keyboard.
+Small repo for a multipurpose windows 10 volume changer.
+Program SoundVolumeView.exe is used in order to change the volume levels of applications.
+The .cmd are specificly setup for discord volume but can be changed for anything program you desire.
+Personally I use this personally use this to alter discord volume and bound it via iCUE software to a scroll wheel on my keyboard.
 Nirsoft SoundVolumeView.exe offers alot of other Windows volume control if you would like to make a solution for you own problem.
 
 ### setup
