@@ -1,0 +1,1 @@
+start /b SoundVolumeView /ChangeVolume "Discord.exe" +5
