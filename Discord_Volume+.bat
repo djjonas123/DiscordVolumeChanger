@@ -1,3 +1,2 @@
-start /b SoundVolumeView /ChangeVolume "Discord.exe" +10
-timeout /t 0.4 /nobreak > NUL
-start /b SoundVolumeView /SetVolume "Mic" 100
+start /b nircmd.exe ChangeAppVolume Discord.exe +0.1
+timeout /t 0.5 /nobreak > NUL
