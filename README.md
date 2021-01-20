@@ -1,4 +1,4 @@
-# VolumeChanger
+# Discord volume hanger
 Small repo for a multipurpose windows 10 volume changer.
 Program SoundVolumeView.exe is used in order to change the volume levels of applications.
 The batch (.bat) files are specifically setup for discord volume but can be changed for any other program.
